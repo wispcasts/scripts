@@ -1,3 +1,5 @@
+#### Script created by roginvs
+#### from https://www.digitalocean.com/community/questions/installing-mikrotik-routeros?comment=62760
 wget http://download2.mikrotik.com/routeros/6.36.4/chr-6.36.4.img.zip -O chr.img.zip  && \
 gunzip -c chr.img.zip > chr.img  && \
 apt-get update && \
